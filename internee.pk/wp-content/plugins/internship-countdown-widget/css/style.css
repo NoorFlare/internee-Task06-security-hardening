@@ -1,0 +1,18 @@
+/* Add styles for the countdown widget */
+.internship-countdown-widget {
+    font-family: 'Arial', sans-serif;
+    font-size: 15px;
+    background-color: #43A724;
+    color: #f5f5f5;
+    padding: 10px 5px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+/* Style for the countdown when the application is closed */
+.internship-countdown-widget.application-closed {
+    color: #ffffff;
+    background-color: #F70000;
+    font-size: 18px;
+    
+}
